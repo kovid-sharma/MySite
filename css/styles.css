@@ -9,15 +9,30 @@ div{
   background-color: #95D1CC;
   margin-top: 0;
 }
-.midcontainer{
-  width: 200px;
-  height: 200px;
-  margin: 0;
-  background-color: red;
-}
+
 .bottom{
   width: 200px;
   height: 200px;
-  margin: 0;
+  position: absolute;
   background-color: blue;
+  left:200px;
+  top: 200px;
+}
+.third{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  background-color: yellow;
+  left:0;
+  top:0;
+
+}
+.midcontainer{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 400px;
+
+  left: 400px;
+  background-color: red;
 }
