@@ -101,24 +101,43 @@ p{
   margin:40px auto 60px;
 }
 .btn {
-   border-radius: 6px;
-   line-height: 14px;
-   color: #FFFFFF;
-   font-family: Arial;
-   font-size: 15px;
-   background-color: #40DFEF;
-   border: solid #40DFEF 0;
-   text-decoration: none;
-   display: block;
-   cursor: pointer;
-   text-align: center;
-   margin-top: 20px;
+  color: #FFFFFF;
+  font-family:calibri;
+  font-size: 20px;
+  background-color: #40DFEF;
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
+  margin-left: 20%;
+  border-radius: 10%;
+  margin-top: 20px;
+  height: 2rem;
+  width: 10rem;
 }
 
 .btn:hover {
-   background: #5EAAA8;
-   border: solid #5EAAA8 0;
+   background: cyan;
+   border: solid cyan 0;
    text-decoration: none;
+}
+.resume{
+  color: #FFFFFF;
+  font-family:calibri;
+  font-size: 20px;
+  background-color: #40DFEF;
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
+  margin-left: 20%;
+  border-radius: 10%;
+  margin-top: 20px;
+  height: 2rem;
+  width: 10rem;
+}
+.resume:hover{
+  background: cyan;
+  border: solid cyan 0;
+  text-decoration: none;
 }
 
 
